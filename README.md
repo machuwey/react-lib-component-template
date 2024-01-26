@@ -2,6 +2,8 @@
 
 This project serves as a template for creating React component libraries. It includes a pre-configured environment with Storybook to help visualize components during development.
 
+It includes native storybook examples and some custom `/components` I made based from a tutorial
+
 ## Cloning the Repository
 
 To clone the repository, run the following command:
