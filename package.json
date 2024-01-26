@@ -1,7 +1,7 @@
 {
   "name": "react-lib-component-template",
   "version": "1.0.0",
-  "description": "Testint",
+  "description": "A template for the development of React component libraries, using Storybook to visualize changes.",
   "type": "module",
   "main": "dist/cjs/index.js",
   "files": [
